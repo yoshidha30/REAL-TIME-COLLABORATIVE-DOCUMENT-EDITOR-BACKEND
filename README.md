@@ -42,7 +42,7 @@ Node.js server is live on port 3001, with MongoDB connected seamlessly. Real-tim
 
 
 
-![Image](https://github.com/user-attachments/assets/02acce30-9545-4eba-a2a1-3ac30df0cf88)
+![Image](https://github.com/user-attachments/assets/8e0b2459-d2ba-4ef6-b763-9337a6867ad5)
 
 
 
